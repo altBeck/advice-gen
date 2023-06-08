@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+</head>
+<body class="bg-darkBlue relative font-Manrope p-3 h-neuHeight flex flex-col items-center content-center text-center">
+  <section class="p-5 mx-auto bg-grayishBlue rounded-md text-lightCyan md:w-[400px] h-[auto] my-auto">
+    <h1 id="title" class="text-neonGreen font-medium"></h1>
+    <p id="text" class="text-3xl p-4 font-semibold"></p>
+
+    <div class="flex">
+      
+
+      <picture class="p-2 flex justify-center relative z-50">
+      
+        <source media="(min-width: 768px)" class="items-center"
+          srcset="./images/pattern-divider-desktop.svg"
+          alt="divider"
+        />
+        <img class="p-2 flex justify-center items-center" src="./images/pattern-divider-mobile.svg" alt="divider"/>
+      </picture>
+
+      <div></div>
+    </div>
+
+
+    <button onclick="fetchAdvice()" class="cursor-pointer center border-none p-2 flex justify-center mx-auto rounded-full items-center bg-neonGreen hover:bg-hoverGreen hover:shadow-shadoGreen h-16 w-16">
+      <img class="w-6 h-6 flex justify-center" src="./images/icon-dice.svg" alt="dice"/>
+    </button>
+  </section>
+
+  <script src="./script.js"></script>
+</body>
+</html>
