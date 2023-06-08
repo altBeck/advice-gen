@@ -8,13 +8,9 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,16 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/images/127.0.0.1_5500_src_.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution Page](https://www.frontendmentor.io/solutions/advice-genrator-built-using-tailwindcss-tZaHk53dcz)
+- Live Site URL: [Live Site Page](https://advice-beck.netlify.app)
 
 
 ### Built with
@@ -58,5 +51,4 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 - Frontend Mentor - [@altBeck](https://www.frontendmentor.io/profile/altBeck)
 - Twitter - [@designrgodd](https://www.twitter.com/designrgodd)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
